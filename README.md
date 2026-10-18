@@ -43,5 +43,7 @@ COAL-Assembly/
         └── output.png
 ```
 
-## Output Screenshot
-![Program output in DOSBox](Assignment3/screenshots/output.png)
+## Output Screenshots
+![Program output 1](Assignment3/screenshots/output1.png)
+
+![Program output 2](Assignment3/screenshots/output2.png)
